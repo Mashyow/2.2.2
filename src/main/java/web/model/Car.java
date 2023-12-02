@@ -18,9 +18,11 @@ public class Car {
     public String getModel() {
         return model;
     }
+
     public String getType() {
         return type;
     }
+
     public Integer getGosnomer() {
         return gosnomer;
     }
